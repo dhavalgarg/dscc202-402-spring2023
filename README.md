@@ -24,7 +24,7 @@ note: **/home/[your account name] should be /Users/[your account name] to work w
 <td><img src="https://data-science-at-scale.s3.amazonaws.com/images/dbce3.png"></td>
 </tr>
 <table>
-<h2>NOTES:</h2>
+<h2>NOTES:hde</h2>
 <ul>
 <li>THE SELECTION OF THE DATABRICKS COMMUNITY EDITION LINK AT THE BOTTOM OF THE FORM... DO NOT SIGN UP FOR THE FULL VERSION!
 <li>You will also be receiving an invite later in the course to the class shared Databricks Workspace which is where you will be doing your final project.
